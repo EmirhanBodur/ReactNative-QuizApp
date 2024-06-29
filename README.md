@@ -14,19 +14,19 @@ Bu, React Native Expo ve Firebase ile geliştirilmiş bir Quiz Uygulamasıdır. 
 
 ### Ana Ekran
 
-![Ana Ekran](assets/screenshots/anasayfa.png)
+![Ana Ekran](assets/screenshoot/anasayfa.png)
 
 ### Quiz Ekranı
 
-![Quiz Ekranı](assets/screenshots/quizscreen.png)
+![Quiz Ekranı](assets/screenshoot/quizscreen.png)
 
 ### Quiz Ekranı - Soru 2
 
-![Quiz Ekranı - Soru 2](assets/screenshots/quizscreen1.png)
+![Quiz Ekranı - Soru 2](assets/screenshoot/quizscreen1.png)
 
 ### Sonuç Ekranı
 
-![Sonuç Ekranı](assets/screenshots/resultscreen.png)
+![Sonuç Ekranı](assets/screenshoot/resultscreen.png)
 
 ## Kurulum
 
