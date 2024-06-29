@@ -38,6 +38,6 @@ Bu, React Native Expo ve Firebase ile geliştirilmiş bir Quiz Uygulamasıdır. 
 ### Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadiniz/quiz-uygulamasi.git
-cd quiz-uygulamasi
+git clone https://github.com/EmirhanBodur/ReactNative-QuizApp.git
+cd ReactNative-QuizApp
 ```
